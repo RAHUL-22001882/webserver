@@ -27,8 +27,30 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SAVEETHA ENGINEERING COLLEGE</title>
+    </head>
+    <body>
+        <h1><u>SEC</u></h1>
+        <body bgcolor="green" text="blue">
+        </body>
+        <ol>
+            <li>AI DS</li>
+            <li>AI ML</li>
+            <li>CSE</li>
+            <li>ECE</li>
+            <li>EEE</li>
+        </ol>
+        <a href="https://www.saveetha.ac.in/" title="official website of SEC">click here!</a>
+    </body>
+</html>
+```
 
 ## OUTPUT:
+![](/Screenshot%202023-04-06%20142327.png)
 
 ## RESULT:
 The program is executed succesfully
