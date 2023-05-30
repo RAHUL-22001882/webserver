@@ -43,14 +43,15 @@ Testing the webserver
             <li>CSE</li>
             <li>ECE</li>
             <li>EEE</li>
-        </ol>
+
         <a href="https://www.saveetha.ac.in/" title="official website of SEC">click here!</a>
     </body>
 </html>
 ```
 
-## OUTPUT:
-![](/Screenshot%202023-04-06%20142327.png)
+## OUTPUT
+![Screenshot (82)](https://github.com/RAHUL-22001882/webserver/assets/123528986/fff7e10f-4d0d-41d0-ae0e-00cc5612b98c)
 
-## RESULT:
+## RESUL
+T:
 The program is executed succesfully
