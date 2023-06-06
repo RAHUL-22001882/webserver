@@ -28,30 +28,25 @@ Testing the webserver
 
 ## PROGRAM:
 ```
-<!DOCTYPE html>
+<!doctype html>
 <html>
-    <head>
-        <title>SAVEETHA ENGINEERING COLLEGE</title>
-    </head>
-    <body>
-        <h1><u>SEC</u></h1>
-        <body bgcolor="green" text="blue">
-        </body>
-        <ol>
-            <li>AI DS</li>
-            <li>AI ML</li>
-            <li>CSE</li>
-            <li>ECE</li>
-            <li>EEE</li>
-
-        <a href="https://www.saveetha.ac.in/" title="official website of SEC">click here!</a>
-    </body>
+<head>
+<title> My Web Server</title>
+</head>
+<body>
+<h1>Top Five Web Application Development Frameworks</h1>
+<h2>1.Django</h2>
+<h2>2. MEAN Stack</h2>
+<h2>3. React </h2>
+</body>
 </html>
+'''
+
 ```
 
 ## OUTPUT
-![Screenshot (82)](https://github.com/RAHUL-22001882/webserver/assets/123528986/fff7e10f-4d0d-41d0-ae0e-00cc5612b98c)
+
+![web server](https://github.com/RAHUL-22001882/webserver/assets/123528986/0d52e75b-7510-4b0f-a875-f9c8c29040af)
 
 ## RESUL
-T:
 The program is executed succesfully
