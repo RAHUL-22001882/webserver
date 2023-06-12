@@ -49,4 +49,4 @@ Testing the webserver
 ![web server](https://github.com/RAHUL-22001882/webserver/assets/123528986/0d52e75b-7510-4b0f-a875-f9c8c29040af)
 
 ## RESUL
-The program is executed succesfully
+The program is executed succesfully.
